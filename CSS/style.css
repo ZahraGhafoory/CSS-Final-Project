@@ -574,7 +574,7 @@ footer{
     .skills ul{
         display: flex;
         flex-direction: column;
-        gap: 17px;
+        gap: 5px;
         justify-content: center;   
         align-items: center;
         margin-top: 20px;
@@ -719,3 +719,4 @@ footer{
 }
 
 }
+
