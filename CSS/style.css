@@ -398,7 +398,7 @@ border-radius: 10px;
     .skills ul{
         display: flex;
         flex-direction: column;
-        gap: 10px
+        gap: 5px
     }
     .skills ul li{
         width: 90px;
@@ -717,4 +717,5 @@ footer{
 .leftfooter{
     border-style: hidden;
 }
+
 }
