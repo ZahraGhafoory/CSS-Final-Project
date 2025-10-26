@@ -229,7 +229,7 @@ margin-top: 0px;
     margin-top: 20px;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 35px;
 }
 .skills ul li{
     width: 200px;
@@ -725,6 +725,7 @@ footer{
 }
 
 }
+
 
 
 
